@@ -1,6 +1,0 @@
-name = "er272-worker"
-type = "javascript"
-account_id = "0e5c69a8d746d3425c0d424a809a79d2"
-workers_dev = true
-route = ""
-zone_id = ""
